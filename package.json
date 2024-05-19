@@ -1,0 +1,22 @@
+{
+  "name": "quiz_competition_hassan_ali",
+  "version": "1.0.1",
+  "main": "index.js",
+  "type": "module",
+  "bin": "quiz.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Hassan_ALi",
+  "license": "ISC",
+  "description": "quiz_competion made by hassan",
+  "dependencies": {
+    "chalk-animation": "^2.0.3",
+    "inquirer": "^9.2.22"
+  },
+  "devDependencies": {
+    "@types/chalk-animation": "^1.6.3",
+    "@types/inquirer": "^9.0.7"
+  }
+}
